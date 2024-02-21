@@ -10,6 +10,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MOS", "MOS", "{A4D0331D-1660-48F4-AB63-AF64C9F6F0A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{FB3AE1AB-CB23-4207-924F-1B0407B926F4}"
+	ProjectSection(SolutionItems) = preProject
+		BaseEntity.cs = BaseEntity.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
