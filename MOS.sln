@@ -13,11 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{FB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Data", "Identity.Data\Identity.Data.csproj", "{40D55B77-05A7-4576-8C52-FC11FBDEDC07}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Context", "Context", "{7DB4E39B-1B1D-4457-BDC1-7FEAE32C30E5}"
-	ProjectSection(SolutionItems) = preProject
-		Identity.Data\IdentityContext.cs = Identity.Data\IdentityContext.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,7 +41,6 @@ Global
 		{AA69C5E5-E768-47AF-B889-948043A5FADB} = {A4D0331D-1660-48F4-AB63-AF64C9F6F0A0}
 		{180BA1EA-F595-4514-8ED5-731B55AA2386} = {A4D0331D-1660-48F4-AB63-AF64C9F6F0A0}
 		{40D55B77-05A7-4576-8C52-FC11FBDEDC07} = {FB3AE1AB-CB23-4207-924F-1B0407B926F4}
-		{7DB4E39B-1B1D-4457-BDC1-7FEAE32C30E5} = {FB3AE1AB-CB23-4207-924F-1B0407B926F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2DF003C6-1420-437B-8F21-6139477AF1B7}
