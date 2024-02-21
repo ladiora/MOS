@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{FB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Data", "Identity.Data\Identity.Data.csproj", "{40D55B77-05A7-4576-8C52-FC11FBDEDC07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOS.Data", "MOS.Data\MOS.Data.csproj", "{532F7573-C851-4B24-993D-1A739AB1FC30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{40D55B77-05A7-4576-8C52-FC11FBDEDC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D55B77-05A7-4576-8C52-FC11FBDEDC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D55B77-05A7-4576-8C52-FC11FBDEDC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532F7573-C851-4B24-993D-1A739AB1FC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532F7573-C851-4B24-993D-1A739AB1FC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532F7573-C851-4B24-993D-1A739AB1FC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532F7573-C851-4B24-993D-1A739AB1FC30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{AA69C5E5-E768-47AF-B889-948043A5FADB} = {A4D0331D-1660-48F4-AB63-AF64C9F6F0A0}
 		{180BA1EA-F595-4514-8ED5-731B55AA2386} = {A4D0331D-1660-48F4-AB63-AF64C9F6F0A0}
 		{40D55B77-05A7-4576-8C52-FC11FBDEDC07} = {FB3AE1AB-CB23-4207-924F-1B0407B926F4}
+		{532F7573-C851-4B24-993D-1A739AB1FC30} = {A4D0331D-1660-48F4-AB63-AF64C9F6F0A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2DF003C6-1420-437B-8F21-6139477AF1B7}
